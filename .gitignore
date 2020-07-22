@@ -1,0 +1,11 @@
+.cache
+.docker
+.gnupg
+.ssh
+/data
+.bash_history
+.bash_logout
+.bashrc
+.prifile
+.sudo_as_admin_successful
+.viminfo
